@@ -1,6 +1,6 @@
 // FORK this starter file and save it to your own Repl.it account.
 
-
+// assignment
 // Declare and initialize the 12 variables here:
 const date = "Monday 2019-03-18";
 const time =	"10:05:34 AM";
